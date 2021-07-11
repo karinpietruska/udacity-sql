@@ -1,8 +1,8 @@
 # Udacity SQL Nanodegree
 
 <p align="center">
-<img src="./img/certificate.pdf" alt="Project 1"
-width="100%"><p>
+<img src="./img/certificate.jpg" alt="certificate"
+width="80%"><p>
 
 ## Part 1
 Learned SQL fundamentals:

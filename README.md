@@ -1,5 +1,9 @@
 # Udacity SQL Nanodegree
 
+<p align="center">
+<img src="./img/certificate.pdf" alt="Project 1"
+width="100%"><p>
+
 ## Part 1
 Learned SQL fundamentals:
 * define sql queries, use aliases, filter data
